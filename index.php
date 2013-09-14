@@ -19,7 +19,7 @@
   <!-- Start of Content -->
   
   <div class="content">
-   <h1>Hello World from Larry Adams</h1> 
+   <h1>Hello World from Larry Adams!</h1> 
   
   	<p>I am a graduate student at Harvard University Extension School.  I am  pursuing a graduate certificate in <a href=				"http://www.extension.harvard.edu/degrees-certificates/professional-certificates/web-technologies-certificate" title="Graduate Certitifcate" target="_blank">Web Technologies</a> and later a <a href="http://www.extension.harvard.edu/degrees-certificates/information-technology/degree-requirements/concentrations#digital" title="Masters degree" target="_blank">Master in Digital Media Arts and Instructional Design</a>.</p>
   
