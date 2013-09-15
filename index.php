@@ -1,5 +1,5 @@
-﻿<!doctype html>
-<html>
+﻿<!DOCTYPE html SYSTEM "about:legacy-compat"> 
+<html lang="en" xml:lang="en">
 <head>
 <meta charset="UTF-8">
 <title>CSCI E-15 Homework - P1</title>
@@ -12,7 +12,7 @@
 
 <!-- end .header -->
   <div class="header">
-  <h2>All Things European</h2>
+  <h2>Project 1 </h2>
     
   </div>
   
