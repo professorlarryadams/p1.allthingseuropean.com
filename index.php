@@ -12,7 +12,8 @@
 
 <!-- end .header -->
   <div class="header">
-  <h2>Project 1 </h2>
+  <h2>Project 1</h2>
+  <h3>CSCI E 15</h3>
     
   </div>
   
