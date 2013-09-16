@@ -7,4 +7,4 @@ Author Larry Adams:
 
 Instructions:
 
-Follow the CSCI E!% lectures notes that spell out how to use Git.
+Follow the CSCI E15 lectures notes that spell out how to use Git.
