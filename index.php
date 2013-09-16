@@ -14,8 +14,17 @@
 
 <div class="container">
 
+<<<<<<< HEAD
 <!-- Header -->
 <div class="header"><h2>CSCI E15 Project 1</h2></div>
+=======
+<!-- end .header -->
+  <div class="header">
+  <h2>Project 1 <br />
+  CSCI E15 </h2>
+    
+  </div>
+>>>>>>> 12e952537393cdd7291cfa80e953f3422c85d244
   
   <!-- Start of Content -->
   
