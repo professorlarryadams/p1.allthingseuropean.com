@@ -4,20 +4,20 @@
 <!-- Head Section -->
 <head>
 <meta charset="UTF-8">
+
 <title>CSCI E-15 Homework - P1</title>
-<link href="/css/main.css" rel="stylesheet" type="text/css">
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 
 <div class="container">
 
-<!-- end .header -->
-  <div class="header">
-  <h2>Project 1</h2>
-  <h3>CSCI E 15</h3>
-    
-  </div>
+	<div class="header">
+  	<h2>Project 1</h2>
+  	<h3>CSCI E 15</h3>
+    </div>
   
   <!-- Start of Content -->
   
@@ -37,12 +37,12 @@
   
   <div>
   <p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
+	<a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valid CSS!" />
-</a>
-</p>
+	</a>
+  </p>
 
 
 <p>
@@ -52,10 +52,11 @@
             alt="Valid CSS!" />
     </a>
 </p>
-            </div>
+           
+ </div>
 
-    
     <!-- end .content --></div>
+  
   <div class="footer">
     <h2>Projects: 1 | 2 | 3 | 4</h2>
     <!-- end .footer --></div>
