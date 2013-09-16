@@ -1,5 +1,7 @@
 ﻿<!DOCTYPE html SYSTEM "about:legacy-compat"> 
 <html lang="en" xml:lang="en">
+
+<!-- Head Section -->
 <head>
 <meta charset="UTF-8">
 <title>CSCI E-15 Homework - P1</title>
