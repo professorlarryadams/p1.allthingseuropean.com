@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>CSCI E-15 Homework - P1</title>
-<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="/css/main.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
